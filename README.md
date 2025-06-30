@@ -1,0 +1,1 @@
+This web application is just a simple meme generator where you can add a linked picture and add text above and below to create you meme generator. Future versions could enable you to download an image of the meme, decide how big you want the image to be, allow different font selections.
